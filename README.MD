@@ -25,3 +25,6 @@ Comunicação web em tempo real
 
 Permitir acesso a API
 ### npm install cors
+
+RODAR A APLICAÇÃO
+### node app.js
